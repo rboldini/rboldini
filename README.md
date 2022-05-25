@@ -2,7 +2,7 @@
 <!-- </br> -->
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rboldini&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rboldini)](https://github.com/rboldini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rboldini&layout=compact)](https://github.com/rboldini/github-readme-stats)
 
 
 Learning C, C++, Python, HTML, CSS, JS, TS, Solidity
